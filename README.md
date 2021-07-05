@@ -1,2 +1,2 @@
 # Vamshi-portfolio
-A minimal portfolio for a client built using JavaScript.
+A minimal portfolio built for a client using JavaScript.
